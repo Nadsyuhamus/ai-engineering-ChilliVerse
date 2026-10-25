@@ -89,6 +89,6 @@ The observation sheet and conceptual system map are group learning activities an
 ## Weekly Progress
 
 | Week | Focus | Status |
-|---|---|---|
-| 1 | Group system analysis, conceptual map, and individual project framing | Initial documents prepared; source checks remain |
-| 2 | Requirements, evaluation criteria, and V1 architecture | Not started |
+| --- | --- | --- |
+| 1 | Group analysis, system map, and individual project scope | Initial documentation completed; source checks remain |
+| 2 | Requirements, evaluation criteria, V1 architecture, decisions and traceability | Initial planning completed |
